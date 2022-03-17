@@ -1,0 +1,234 @@
+
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family:Arial, Helvetica, sans-serif;
+    scroll-behavior:smooth;
+}
+    header{
+    position:fixed;
+    top:0px;
+    left:0px;
+    padding:20px 10px;
+    width:100%;
+    z-index: 1;
+    display:flex;
+    justify-content:space-evenly;
+    align-items: center;
+    transition: 0.5s;
+    background-color:#128C7E;
+}
+.menunavigation{
+    display:flex;
+    position:relative;
+    font-size:16px;
+}
+.menunavigation li{
+    list-style: none;
+} 
+.menunavigation a { 
+    color:white;  
+    text-decoration:none;
+    margin-left:30px;
+}
+.para1{
+    position:relative;
+    width: 100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:140px;
+    margin-bottom:70px;
+}
+.para1tex{
+    margin-right:4%;
+}
+.para1texth{
+    font-size: 33px;
+    font-weight: 100;
+}
+.para1tex1p{
+    margin:18px 0px;
+    font-size: 18px;
+    color:#1c1e21;
+}
+.para1tex2p{
+    color:#5e5e5e;
+}
+.para2rectgaucheh1{
+    color: #1C1E21;
+    font-size: 34px;
+}
+.para2rectgaucheh1pp{
+    color:#1c1e21;
+}
+.para2-1texth{
+    padding: 0px 0px 16px;
+    font-size: 33px;
+    font-weight: 100;
+
+}
+.para2{
+    position:relative;
+    width: 100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.para2rectdroiteimage{
+    margin-right:40px;
+}
+.para1image img{
+    width:304px;
+    height:572.63px;
+}
+.para2rectgauche{
+    background-color: #D8E8EA;
+    width:704px;
+    height: 949.97px;
+    margin:0px 16px 0px 0px;
+    padding: 80px 0px 0px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size:18px;
+}
+.colohref{
+    color:#39b3ed;
+}
+.reseausociaux p a{
+    text-decoration: none;
+    color:#1cb39b;
+
+}
+.reseausociaux p{
+    padding: 0px 0px 16px;
+}
+.reseausociaux p img{
+    margin-bottom:-5px;
+}
+.para2rectdroite{
+    background-color: #E7F0E4;
+    width:704px;
+    height: 949.97px;
+    margin: 0px 0px 0px 16px;
+    padding:80px 0px 0px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size:18px;
+
+}
+.para2image{
+    width:278.72px;
+    height:304.98px;
+    margin-top:215px;
+}
+.para2rectdroitechifr{
+    font-size: 16px;
+    letter-spacing:2px;
+    color:#5E5E5E;
+}
+.para2rectdroitesec{
+    font-size: 34px;
+    color:#1c1E21;
+}
+.para2rectdroitecert{
+    font-size: 18px;
+    color:#1c1e21;
+}
+.para2bouton{
+    position:relative;
+    width: 100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.para2boutondecouvr{
+    border:solid 3px #128c7e;
+    border-radius:23px;
+    padding: 15px 25px;
+    text-transform: uppercase;
+}
+.footer1{
+    background-color: #273443;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 56px 20px;
+}
+.footer1 li{
+    font-size: 18px;
+    color: #F0F4F9;
+}
+.footer1 ul{
+    margin-right:120px;
+}
+.footer1 ul h4{
+    font-size: 16px;
+    color: #F0F4F9;
+}
+.footer1 ul li a{
+    color:#FFFFFF;
+    text-decoration: none;
+}
+.footer1 ul li a:hover{
+    text-decoration:underline;
+}
+.footer2{
+    background-color: #1c1e21;
+    display: flex;
+    padding: 4px 24px;
+    justify-content: center;
+    align-items: center;
+}
+.footer2p{
+    padding: 16px 0px;
+    margin-right:50%;
+}
+.footer2a{
+    padding: 16px 0px;
+}
+.footer1 ul li{
+    list-style: none;
+    
+}
+.footer2p p{
+    color: #FFFFFF;
+}
+.footer2a a{
+    color: #FFFFFF;
+}
+.footertitretelech{
+    margin-top:-58px;
+    color: #F0F4F9;
+}
+.footertitreaide{
+    margin-top: -40px;
+    color: #F0F4F9;
+}
+.wh{
+    color:#F0F4F9;
+}
+.ent{
+    color:#F0F4F9;
+}
+.footer2a a{
+    text-decoration: none;
+}
+.para2boutondecouvr p a{
+    text-decoration: none;
+    color: #128C7E;
+}
+.para2boutondecouvr p a:hover{
+    text-decoration: underline;
+}
+.colohref{
+    text-decoration: none;
+}
+.colohref:hover{
+    text-decoration:underline;
+}
